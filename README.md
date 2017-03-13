@@ -1,6 +1,8 @@
 # basic_prog_concepts
 Basic Programming Concepts
 
+- Check out the [Video Sources library](https://github.com/gnubyte/basic_prog_concepts/blob/master/Video_sources.md) I am bulding as well!
+
 
 ## Purpose:
  To visualize the topics that I am trying to learn, and display to current and future employers that I can demonstrate these skills.
