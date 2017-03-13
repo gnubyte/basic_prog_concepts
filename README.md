@@ -126,6 +126,7 @@ _Absolutely Fluent in;_
  - [x] Can navigate RDBMS system
  - [x] Can manipulate flat database or non-traditional RDBMS
  - [x] Can navigate flat DB or non-traditional RDBMS
+ - [] Can parse using a machine learning library
  
 **Security:**
  - [] Understanding Hashes
