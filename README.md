@@ -82,7 +82,8 @@ _Absolutely Fluent in;_
  - [x] Can integrate 3rd party API's
  - [x] Can inject dependencies
  - [x] Can create portable product
- - [] Can maintain a wiki for the software
+ - [] Can maintain a wiki; for the software
+ - [] Can write installation structions in the wiki or a readme
  
 ** Core Skills: **
  - [] Can implement or follow Object Orientated Programming
@@ -109,8 +110,16 @@ _Absolutely Fluent in;_
   - [x] Can maintain morale
   - [x] Can add to existing project without reinventing/starting entire thing from scratch
  
+**Best Practices:**
+_Best practices used in the schema of code_
+- [] Uses shortest paths/methods
+- [] Complex over simple
+- [] Can employ Dynamic Programming when appropriate
+- [] Practices good habits with garbage collection
+- [x] Can implement OOP to mirror the DAL (where _DAL_ is Data Access Library)
+ 
 **Data:**
- - []  Create a data tree
+ - [] Can Create a data tree
  - [] display data in data tree
  - [] Manipulate the data tree
  - [] identify abstract types out of the data tree
@@ -128,7 +137,7 @@ _Absolutely Fluent in;_
  - [x] Can navigate RDBMS system
  - [x] Can manipulate flat database or non-traditional RDBMS
  - [x] Can navigate flat DB or non-traditional RDBMS
- - [] Can parse using a machine learning library
+ - [] Can parse data or train nodes using a machine learning library
  
 **Security:**
  - [] Understanding Hashes
