@@ -20,6 +20,50 @@ Basic Programming Concepts
  - [x] Participates in coding outside of the workplace
  - [x] Contributes financially to freeware of use
  - [x] Stays up to date with EFF's dealings
+ - [x] Supports the FSF ( Free Software Foundation)
+ - [x] Understands software licensing (GNU, MIT, GPL, GPL 2)
+ 
+**Language Support:**
+_Absolutely Fluent in;_
+ - [] Any Assembly
+ - [x] Ada
+ - [] Applescript
+ - [x] AJAX (PHP with asynchronus javascript and XML)
+ - [x] Can implement HTAs
+ - [x] Bash
+ - [x] Batch
+ - [] BASIC
+ - [] COBOL
+ - [] Clojure
+ - [] C++
+ - [] C
+ - [] C#
+ - [] Coffeescript
+ - [] Caml
+ - [x] CSS
+ - [x] HTML
+ - [] Haskell
+ - [] Lua
+ - [] Erlang
+ - [x] Javascript
+ - [x] Javascript (Node.js, especially in context to server sided)
+ - [] Java
+ - [] Matlab
+ - [x] Python
+ - [x] PHP
+ - [] Pascal
+ - [] Perl
+ - [] R
+ - [] Ruby
+ - [] Swift
+ - [x] SQL
+ - [] SOAP
+ - [] Scratch
+ - [] Powershell
+ - [] Visual Basic
+ - [] Scala
+ - [] XML
+ 
 
 
 ** Tools and Work environment: **
@@ -38,7 +82,7 @@ Basic Programming Concepts
  - [x] Can inject dependencies
  - [x] Can create portable product
  
- ** Core Skills: **
+** Core Skills: **
  - [] Can implement or follow Object Orientated Programming
  - [x] Can identify key terminology
  - [x] Can implement or identify return orientated Programming
@@ -51,8 +95,9 @@ Basic Programming Concepts
  - [x] Understands Operations
  - [x] Understands Methods
  - [x] Understands Methods
+ - [x] Maintains syntax
  
-  **Project Handling:**
+**Project Handling:**
   - [x] Can use or manage a KanBan system of management
   - [] Can use or work in a Scrum environment
   - [] Can use or work in an Agile environment
@@ -60,8 +105,9 @@ Basic Programming Concepts
   - [x] Can work with the customer under pressure
   - [x] Understands stress in relation to product motivation
   - [x] Can maintain morale
+  - [x] Can add to existing project without reinventing/starting entire thing from scratch
  
- **Data:**
+**Data:**
  - []  Create a data tree
  - [] display data in data tree
  - [] Manipulate the data tree
@@ -81,13 +127,13 @@ Basic Programming Concepts
  - [x] Can manipulate flat database or non-traditional RDBMS
  - [x] Can navigate flat DB or non-traditional RDBMS
  
- **Security: **
+**Security: **
  - [] Understanding Hashes
  - [x] Understands TLS/SSL
  - [] Understands and employs proper use in applications built (PH: Yes- MySQL is an example)
  - [x] Does not use or implement pirated software in the environment
  
- **End Product Handling:**
+**End Product Handling:**
  - [x] Can compile code
  - [x] Can identify serial numbers or hardware specifics utilizing the OS features (WMI, IOKit, Init)
  - [x] Can log user & interaction properly
