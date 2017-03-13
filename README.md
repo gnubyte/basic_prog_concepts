@@ -27,7 +27,7 @@ Basic Programming Concepts
 **Language Support:**
 _Absolutely Fluent in;_
  - [] Any Assembly
- - [x] Ada
+ - [] Ada
  - [] Applescript
  - [x] AJAX (PHP with asynchronus javascript and XML)
  - [x] Can implement HTAs
@@ -141,3 +141,39 @@ _Absolutely Fluent in;_
  - [x] Can identify serial numbers or hardware specifics utilizing the OS features (WMI, IOKit, Init)
  - [x] Can log user & interaction properly
  - [x] Can log bugs and auto report using self-made tools or 3rd party tools (SentryIO)
+
+**Platform availability:**
+_can you code on these platforms?_
+- [] Android 2x-3x availibility
+- [x] Android 4x availability
+- [x] Android 5x availability
+- [] Android 6x availability
+- [] Android 7x availability
+- [] iOS 4x availability
+- [] iOS 5x availability
+- [] iOS 6x availability
+- [] iOS 7x availability
+- [] iOS 8x availability
+- [] iOS 9x availability
+- [] iOS 10x availability
+- [] OSX Platform availability
+- [] Linux Platform availability
+- [x] Windows XP availability
+- [x] Windows Vista availability
+- [x] Windows 7 availability
+- [x] Windows 8.x availability
+- [] Windows 8 RT availability
+- [] Windows 10 availability
+- [x] x86 general windows platform
+- [x] x86_64 general windows platform
+
+##TODO:
+1. Add OSX variations
+1. Add Windows Servers
+1. Add Debian
+1. Add Windows phone platform
+1. Add web availability
+1. Add CentOS-RHEL family
+1. Add Ubuntu server and desktop
+1. ARM processor 
+1. ARM in relation to w/ Rasppi availability
