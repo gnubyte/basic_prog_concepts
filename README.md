@@ -18,6 +18,8 @@ Basic Programming Concepts
  - [x] engages in emergering programming cultures
  - [x] Practices minimum of 1 language daily
  - [x] Participates in coding outside of the workplace
+ - [x] Contributes financially to freeware of use
+ - [x] Stays up to date with EFF's dealings
 
 
 ** Tools and Work environment: **
@@ -83,6 +85,7 @@ Basic Programming Concepts
  - [] Understanding Hashes
  - [x] Understands TLS/SSL
  - [] Understands and employs proper use in applications built (PH: Yes- MySQL is an example)
+ - [x] Does not use or implement pirated software in the environment
  
  **End Product Handling:**
  - [x] Can compile code
