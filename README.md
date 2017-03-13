@@ -23,6 +23,7 @@ Basic Programming Concepts
  - [x] Supports the FSF ( Free Software Foundation)
  - [x] Understands software licensing (GNU, MIT, GPL, GPL 2)
  
+ 
 **Language Support:**
 _Absolutely Fluent in;_
  - [] Any Assembly
@@ -81,6 +82,7 @@ _Absolutely Fluent in;_
  - [x] Can integrate 3rd party API's
  - [x] Can inject dependencies
  - [x] Can create portable product
+ - [] Can maintain a wiki for the software
  
 ** Core Skills: **
  - [] Can implement or follow Object Orientated Programming
