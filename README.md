@@ -4,7 +4,8 @@ Basic Programming Concepts
 
 ## Purpose:
  To visualize the topics that I am trying to learn, and display to current and future employers that I can demonstrate these skills.
- ### Version 0.3 Rough Draft
+ 
+### Version 0.3 Rough Draft
  
  **This is a list based on my own experience in the field, and what I find to be useful skills in any programmer or even a scripter. I try to cultivate these skills in myself as well as anyone else I have to work with**
  
