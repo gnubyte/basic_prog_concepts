@@ -66,7 +66,7 @@ _Absolutely Fluent in;_
  
 
 
-** Tools and Work environment: **
+**Tools and Work environment:**
  - [] Using a debugger properly _stack data, watches, breakpoints, stepthroughs_
  - [x] Revision history _using git_
  - [] Unit testing  _unittest_
@@ -127,7 +127,7 @@ _Absolutely Fluent in;_
  - [x] Can manipulate flat database or non-traditional RDBMS
  - [x] Can navigate flat DB or non-traditional RDBMS
  
-**Security: **
+**Security:**
  - [] Understanding Hashes
  - [x] Understands TLS/SSL
  - [] Understands and employs proper use in applications built (PH: Yes- MySQL is an example)
