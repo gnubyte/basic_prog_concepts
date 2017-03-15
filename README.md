@@ -28,74 +28,74 @@ Basic Programming Concepts
  
 **Language Support:**
 _Absolutely Fluent in;_
- - [] Any Assembly
- - [] Ada
- - [] Applescript
+ - [ ] Any Assembly
+ - [ ] Ada
+ - [ ] Applescript
  - [x] AJAX (PHP with asynchronus javascript and XML)
  - [x] Can implement HTAs
  - [x] Bash
  - [x] Batch
- - [] BASIC
- - [] COBOL
- - [] Clojure
- - [] C++
- - [] C
- - [] C#
- - [] Coffeescript
- - [] Caml
+ - [ ] BASIC
+ - [ ] COBOL
+ - [ ] Clojure
+ - [ ] C++
+ - [ ] C
+ - [ ] C#
+ - [ ] Coffeescript
+ - [ ] Caml
  - [x] CSS
  - [x] HTML
- - [] Haskell
- - [] Lua
- - [] Erlang
+ - [ ] Haskell
+ - [ ] Lua
+ - [ ] Erlang
  - [x] Javascript
  - [x] Javascript (Node.js, especially in context to server sided)
- - [] Java
- - [] Matlab
+ - [ ] Java
+ - [ ] Matlab
  - [x] Python
  - [x] PHP
- - [] Pascal
- - [] Perl
- - [] R
- - [] Ruby
- - [] Swift
+ - [ ] Pascal
+ - [ ] Perl
+ - [ ] R
+ - [ ] Ruby
+ - [ ] Swift
  - [x] SQL
- - [] SOAP
- - [] Scratch
- - [] Powershell
- - [] Visual Basic
- - [] Scala
- - [] XML
+ - [ ] SOAP
+ - [ ] Scratch
+ - [ ] Powershell
+ - [ ] Visual Basic
+ - [ ] Scala
+ - [ ] XML
  
 
 
 **Tools and Work environment:**
- - [] Using a debugger properly _stack data, watches, breakpoints, stepthroughs_
+ - [ ] Using a debugger properly _stack data, watches, breakpoints, stepthroughs_
  - [x] Revision history _using git_
- - [] Unit testing  _unittest_
+ - [ ] Unit testing  _unittest_
  - [x] Understands what constitutes a proper IDE
  - [x] Versed in Slack, Mattermost, HipChat,RocketChat, XMPP/IRC
  - [x] Markdown knowhow
  - [x] Delineates development environment from deployment environment
- - [] Can use CI _continuous integration_ to deploy code rapidly (Docker?- Gitlab-Jenkins)
+ - [ ] Can use CI _continuous integration_ to deploy code rapidly (Docker?- Gitlab-Jenkins)
  - [x] Can deploy webhooks for their code to communicate to teammates in chosen automated environment
- - [] Can use configuration tools or cookbooks in environment (Chef, Ansible, Saltstack)
- - [] Has used API's for fullstack environment control (Openstack)
+ - [ ] Can use configuration tools or cookbooks in environment (Chef, Ansible, Saltstack)
+ - [ ] Has used API's for fullstack environment control (Openstack)
  - [x] Can integrate 3rd party API's
  - [x] Can inject dependencies
  - [x] Can create portable product
- - [] Can maintain a wiki; for the software
- - [] Can write installation structions in the wiki or a readme
+ - [ ] Can maintain a wiki; for the software
+ - [ ] Can write installation structions in the wiki or a readme
  
 ** Core Skills: **
- - [] Can implement or follow Object Orientated Programming
+ - [ ] Can implement or follow Object Orientated Programming
  - [x] Can identify key terminology
  - [x] Can implement or identify return orientated Programming
  - [x] Can identify JIT compilation
  - [x] Can write and utilize Classes
  - [x] Properly Comments code
  - [x] Can utilize hotkeys in IDE as well as a general editor
- - [] Can use or follow a style guide
+ - [ ] Can use or follow a style guide
  - [x] Understands Statements
  - [x] Understands Operations
  - [x] Understands Methods
@@ -104,9 +104,9 @@ _Absolutely Fluent in;_
  
 **Project Handling:**
   - [x] Can use or manage a KanBan system of management
-  - [] Can use or work in a Scrum environment
-  - [] Can use or work in an Agile environment
-  - [] Can reasonably meet deadlines
+  - [ ] Can use or work in a Scrum environment
+  - [ ] Can use or work in an Agile environment
+  - [ ] Can reasonably meet deadlines
   - [x] Can work with the customer under pressure
   - [x] Understands stress in relation to product motivation
   - [x] Can maintain morale
@@ -114,20 +114,20 @@ _Absolutely Fluent in;_
  
 **Best Practices:**
 _Best practices used in the schema of code_
-- [] Uses shortest paths/methods
-- [] Complex over simple
-- [] Can employ Dynamic Programming when appropriate
-- [] Practices good habits with garbage collection
+- [ ] Uses shortest paths/methods
+- [ ] Complex over simple
+- [ ] Can employ Dynamic Programming when appropriate
+- [ ] Practices good habits with garbage collection
 - [x] Can implement OOP to mirror the DAL (where _DAL_ is Data Access Library)
  
 **Data:**
- - [] Can Create a data tree
- - [] display data in data tree
- - [] Manipulate the data tree
- - [] identify abstract types out of the data tree
- - [] Run means of operation of the abstract types individually
- - [] Understanding tuples: when, why, how
- - [] Understanding Dictionaries: when, why, how
+ - [ ] Can Create a data tree
+ - [ ] display data in data tree
+ - [ ] Manipulate the data tree
+ - [ ] identify abstract types out of the data tree
+ - [ ] Run means of operation of the abstract types individually
+ - [ ] Understanding tuples: when, why, how
+ - [ ] Understanding Dictionaries: when, why, how
  - [x] Understanding operations: when, why, how (*,/,%,+,-,++,--)
  - [x] Abstract Types: declaring variables
  - [x] Casting data types
@@ -139,12 +139,12 @@ _Best practices used in the schema of code_
  - [x] Can navigate RDBMS system
  - [x] Can manipulate flat database or non-traditional RDBMS
  - [x] Can navigate flat DB or non-traditional RDBMS
- - [] Can parse data or train nodes using a machine learning library
+ - [ ] Can parse data or train nodes using a machine learning library
  
 **Security:**
- - [] Understanding Hashes
+ - [ ] Understanding Hashes
  - [x] Understands TLS/SSL
- - [] Understands and employs proper use in applications built (PH: Yes- MySQL is an example)
+ - [ ] Understands and employs proper use in applications built (PH: Yes- MySQL is an example)
  - [x] Does not use or implement pirated software in the environment
  
 **End Product Handling:**
@@ -155,26 +155,26 @@ _Best practices used in the schema of code_
 
 **Platform availability:**
 _can you code on these platforms?_
-- [] Android 2x-3x availibility
+- [ ] Android 2x-3x availibility
 - [x] Android 4x availability
 - [x] Android 5x availability
-- [] Android 6x availability
-- [] Android 7x availability
-- [] iOS 4x availability
-- [] iOS 5x availability
-- [] iOS 6x availability
-- [] iOS 7x availability
-- [] iOS 8x availability
-- [] iOS 9x availability
-- [] iOS 10x availability
-- [] OSX Platform availability
-- [] Linux Platform availability
+- [ ] Android 6x availability
+- [ ] Android 7x availability
+- [ ] iOS 4x availability
+- [ ] iOS 5x availability
+- [ ] iOS 6x availability
+- [ ] iOS 7x availability
+- [ ] iOS 8x availability
+- [ ] iOS 9x availability
+- [ ] iOS 10x availability
+- [ ] OSX Platform availability
+- [ ] Linux Platform availability
 - [x] Windows XP availability
 - [x] Windows Vista availability
 - [x] Windows 7 availability
 - [x] Windows 8.x availability
-- [] Windows 8 RT availability
-- [] Windows 10 availability
+- [ ] Windows 8 RT availability
+- [ ] Windows 10 availability
 - [x] x86 general windows platform
 - [x] x86_64 general windows platform
 
