@@ -105,6 +105,8 @@ _Absolutely Fluent in;_
  - [x] [Understands first class functions, and inherently first class citizen objects](https://www.youtube.com/watch?v=kr0mpwqttM0)
    - [x] Understands Higher order functions _passing functions as an argument and return functions as a result of other functions. If a function accepts other functions as arguments or returns functions as their result._
    - To me, Higher order functions allow us to benefit from them by employing logic blocks within a function, or by running a function within an already called function.
+ - [x] Understands Associative arrays v. Indexed arrays v. Multidimmensional arrays
+   
 **Project Handling:**
   - [x] Can use or manage a KanBan system of management
   - [ ] Can use or work in a Scrum environment
