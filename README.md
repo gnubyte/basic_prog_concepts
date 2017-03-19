@@ -106,6 +106,7 @@ _Absolutely Fluent in;_
  - [x] [Understands first class functions, and inherently first class citizen objects](https://www.youtube.com/watch?v=kr0mpwqttM0)
    - [x] Understands Higher order functions _passing functions as an argument and return functions as a result of other functions. If a function accepts other functions as arguments or returns functions as their result._
    - To me, Higher order functions allow us to benefit from them by employing logic blocks within a function, or by running a function within an already called function.
+ - [x] Understands Super classes v. subclasses
  - [x] Understands Associative arrays v. Indexed arrays v. Multidimmensional arrays
  - [x] Can sort a list or an array and iterate through it
   - [x] Can change values while iterating through the list
