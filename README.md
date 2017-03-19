@@ -101,7 +101,9 @@ _Absolutely Fluent in;_
  - [x] Understands Methods
  - [x] Understands Methods
  - [x] Maintains syntax
- 
+ - [x] Understands clousure 
+ - [x] [Understands first class functions, and inherently first class citizen objects](https://www.youtube.com/watch?v=kr0mpwqttM0)
+   - [x] Understands Higher order functions _passing functions as an argument and return functions as a result of other functions. If a function accepts other functions as arguments or returns functions as their result._
 **Project Handling:**
   - [x] Can use or manage a KanBan system of management
   - [ ] Can use or work in a Scrum environment
@@ -111,6 +113,7 @@ _Absolutely Fluent in;_
   - [x] Understands stress in relation to product motivation
   - [x] Can maintain morale
   - [x] Can add to existing project without reinventing/starting entire thing from scratch
+  - [x] [Can identify what the Waterfall programming model is and if it is appropriate](https://www.youtube.com/watch?v=0NAsk0noT_U)
  
 **Best Practices:**
 _Best practices used in the schema of code_
@@ -119,6 +122,7 @@ _Best practices used in the schema of code_
 - [ ] Can employ Dynamic Programming when appropriate
 - [ ] Practices good habits with garbage collection
 - [x] Can implement OOP to mirror the DAL (where _DAL_ is Data Access Library)
+
  
 **Data:**
  - [ ] Can Create a data tree
