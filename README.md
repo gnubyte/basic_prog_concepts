@@ -87,6 +87,7 @@ _Absolutely Fluent in;_
  - [x] Can create portable product
  - [ ] Can maintain a wiki; for the software
  - [ ] Can write installation structions in the wiki or a readme
+ - [x] [Can Identify that people have different learning strategies, and does not attempt to cargo culture unload onto another team member](https://www.youtube.com/watch?v=csyL9EC0S0c&t=1390s)
  
 ** Core Skills: **
  - [ ] Can implement or follow Object Orientated Programming
