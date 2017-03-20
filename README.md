@@ -112,6 +112,7 @@ _Absolutely Fluent in;_
  - [x] Can sort a list or an array and iterate through it
   - [x] Can change values while iterating through the list
   - [ ] [Understands Factories](https://www.binpress.com/tutorial/the-factory-design-pattern-explained-by-example/142)
+  - [x] [Understands and can implement generators](https://www.youtube.com/watch?v=bD05uGo_sVI)
    
 **Project Handling:**
   - [x] Can use or manage a KanBan system of management
