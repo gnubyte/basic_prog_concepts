@@ -130,7 +130,7 @@ _Best practices used in the schema of code_
 - [ ] Complex over simple
 - [ ] Can employ Dynamic Programming when appropriate
 - [ ] Practices good habits with garbage collection
-- [x] Can implement OOP to mirror the DAL (where _DAL_ is Data Access Library)
+- [x] [Can implement OOP to mirror the DAL (where _DAL_ is Data Access Library)](https://www.binpress.com/tutorial/using-php-with-mysql-the-right-way/17)
 
  
 **Data:**
