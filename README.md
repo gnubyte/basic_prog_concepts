@@ -1,13 +1,13 @@
 # basic_prog_concepts
 Basic Programming Concepts
 
-- Check out the [Video Sources library](https://github.com/gnubyte/basic_prog_concepts/blob/master/Video_sources.md) I am bulding as well!
+- Check out the ~~[Video Sources library](https://github.com/gnubyte/basic_prog_concepts/blob/master/Video_sources.md) I am bulding as well!~~ As of 0.3.1 I am now trying to closely integrate these links into the list to consolidate knowledge sources.
 
 
 ## Purpose:
  To visualize the topics that I am trying to learn, and display to current and future employers that I can demonstrate these skills.
  
-### Version 0.3 Rough Draft
+### Version 0.3.1 Rough Draft
  _will jump to draft 0.4 when I comb through the different levels and add some new technologies to the list_
  
  **This is a list based on my own experience in the field, and what I find to be useful skills in any programmer or even a scripter. I try to cultivate these skills in myself as well as anyone else I have to work with**
@@ -96,7 +96,7 @@ _Absolutely Fluent in;_
   - [x] Understands Super classes v. subclasses
   - [x] Understands clousure 
   - [x] [Understands first class functions, and inherently first class citizen objects](https://www.youtube.com/watch?v=kr0mpwqttM0)
-   - [x] Understands Higher order functions _passing functions as an argument and return functions as a result of other functions. If a function accepts other functions as arguments or returns functions as their result._
+   - [x] Understands Higher order functions _passing functions as an argument and return functions as a result of other functions. If a function accepts other functions as arguments or returns functions as their result.
    - To me, Higher order functions allow us to benefit from them by employing logic blocks within a function, or by running a function within an already called function.
  - [x] Can identify key terminology
  - [x] Can implement or identify return orientated Programming
@@ -115,6 +115,7 @@ _Absolutely Fluent in;_
   - [x] Can change values while iterating through the list
   - [ ] [Understands Factories](https://www.binpress.com/tutorial/the-factory-design-pattern-explained-by-example/142)
   - [x] [Understands and can implement generators](https://www.youtube.com/watch?v=bD05uGo_sVI)
+  - [x] [Dynamic programming: Fibonacci & Shortest Paths](https://www.youtube.com/watch?v=OQ5jsbhAv_M)
    
 **Project Handling:**
   - [x] Can use or manage a KanBan system of management
