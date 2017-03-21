@@ -92,7 +92,7 @@ _Absolutely Fluent in;_
 **Core Skills:**
  - [ ] Can implement or follow Object Orientated Programming
  - [ ] Can identify OOP v. Procedural programming
-  - [x] Uses Constructors and destructors
+  - [x] Uses Constructors and destructors (_think __init__ or __construct)
   - [x] Understands Super classes v. subclasses
   - [x] Understands clousure 
   - [x] [Understands first class functions, and inherently first class citizen objects](https://www.youtube.com/watch?v=kr0mpwqttM0)
