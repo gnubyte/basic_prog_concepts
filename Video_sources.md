@@ -11,9 +11,9 @@ _A list of videos that point to my sources for attaining my knowledge_
 
 
 
-### Culture
+### Culture/Best practices
 1. [Lessons learned from years of programming](https://www.youtube.com/watch?v=csyL9EC0S0c&t=1390s)
-
+1. [Spotify Python Programmer lectures 'Actual OOP'](https://www.youtube.com/watch?v=VUvEDg30FyY)
 
 ### General learning a language Tutorials
 1. [Source them cheap from Sourceforge deals, paid](https://deals.sourceforge.net/)
