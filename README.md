@@ -202,7 +202,7 @@ _can you code on these platforms?_
 - [Monitoring](https://www.ks-soft.net/hostmon.eng/)
 - [Automatic bug notifications](https://sentry.io)
 - [Backups of systems](http://blog.bacula.org/) and [Backups of Networks](http://www.shrubbery.net/rancid/)
-- Scaling strategies
+- [Scaling strategies](https://www.youtube.com/watch?v=xFFs9UgOAlE)
 - Disaster Recovery
 - Workstation recovery
 
