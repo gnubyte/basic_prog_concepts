@@ -198,6 +198,14 @@ _can you code on these platforms?_
 - [x] x86 general windows platform
 - [x] x86_64 general windows platform
 
+**Understanding Deployment:**
+- [Monitoring](https://www.ks-soft.net/hostmon.eng/)
+- [Automatic bug notifications](https://sentry.io)
+- [Backups of systems](http://blog.bacula.org/) and [Backups of Networks](http://www.shrubbery.net/rancid/)
+- Scaling strategies
+- Disaster Recovery
+- Workstation recovery
+
 ##TODO:
 1. Add OSX variations
 1. Add Windows Servers
