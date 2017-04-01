@@ -90,6 +90,7 @@ _Absolutely Fluent in;_
  - [x] [Can Identify that people have different learning strategies, and does not attempt to cargo culture unload onto another team member](https://www.youtube.com/watch?v=csyL9EC0S0c&t=1390s)
  
 **Core Skills:**
+ - [x] [Be a human, have a sense of humor](https://www.youtube.com/watch?v=QWy9NDsH-uA)
  - [ ] Can implement or follow Object Orientated Programming
  - [ ] Can identify OOP v. Procedural programming
   - [x] Uses Constructors and destructors (_think __init__ or __construct)
@@ -116,9 +117,10 @@ _Absolutely Fluent in;_
   - [ ] [Understands Factories](https://www.binpress.com/tutorial/the-factory-design-pattern-explained-by-example/142)
   - [x] [Understands and can implement generators](https://www.youtube.com/watch?v=bD05uGo_sVI)
   - [x] [Dynamic programming: Fibonacci & Shortest Paths](https://www.youtube.com/watch?v=OQ5jsbhAv_M)
+  - [x] [Understanding Microservices](https://www.youtube.com/watch?v=CZ3wIuvmHeM)
    
 **Project Handling:**
-  - [x] Can use or manage a KanBan system of management
+  - [x] [Can use or manage a KanBan system of management](https://www.youtube.com/watch?v=CKWvmiY7f_g)
   - [ ] Can use or work in a Scrum environment
   - [ ] Can use or work in an Agile environment
   - [ ] Can reasonably meet deadlines
@@ -127,6 +129,7 @@ _Absolutely Fluent in;_
   - [x] Can maintain morale
   - [x] Can add to existing project without reinventing/starting entire thing from scratch
   - [x] [Can identify what the Waterfall programming model is and if it is appropriate](https://www.youtube.com/watch?v=0NAsk0noT_U)
+  - [x] [Employs experienced practices vs novice practices/guessing in systems, also does things both 'fun/complex' and the 'non-sexy' stuff, can evaluate trade offs when making critical decisions](https://www.youtube.com/watch?v=ICQRE4Camj8)
  
 **Best Practices:**
 _Best practices used in the schema of code_
