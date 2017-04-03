@@ -133,8 +133,8 @@ _Absolutely Fluent in;_
  
 **Best Practices:**
 _Best practices used in the schema of code_
-- [ ] Uses shortest paths/methods
-- [ ] Complex over simple
+- [ ] [Uses shortest paths/methods](https://www.youtube.com/watch?v=Aa2sqUhIn-E)
+- [ ] Dynamically Complex over simple stupid, but dynamically complex implemented as simple
 - [ ] Can employ Dynamic Programming when appropriate
 - [ ] Practices good habits with garbage collection
 - [x] [Can implement OOP to mirror the DAL (where _DAL_ is Data Access Library)](https://www.binpress.com/tutorial/using-php-with-mysql-the-right-way/17)
@@ -159,7 +159,7 @@ _Best practices used in the schema of code_
  - [x] Can navigate RDBMS system
  - [x] Can manipulate flat database or non-traditional RDBMS
  - [x] Can navigate flat DB or non-traditional RDBMS
- - [ ] Can parse data or train nodes using a machine learning library
+ - [ ] [Can parse data or train nodes using a machine learning library](https://www.oreilly.com/learning/hello-tensorflow)
  
 **Security:**
  - [ ] Understanding Hashes
