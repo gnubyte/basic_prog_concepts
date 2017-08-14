@@ -120,6 +120,7 @@ _Absolutely Fluent in;_
   - [x] [Understanding Microservices](https://www.youtube.com/watch?v=CZ3wIuvmHeM)
    
 **Project Handling:**
+  - [x] [Understanding that your experience does not demand a bad attitude- wink](https://ukiahsmith.com/blog/programming-is-terrible-so-learn-to-enjoy-it/)
   - [x] [Can use or manage a KanBan system of management](https://www.youtube.com/watch?v=CKWvmiY7f_g)
   - [ ] Can use or work in a Scrum environment
   - [ ] Can use or work in an Agile environment
